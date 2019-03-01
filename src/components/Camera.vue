@@ -31,8 +31,10 @@ export default {
 
 <style scoped lang="scss">
 .camera{
-  width: 100vw;
-  height: 100vh;
+  display: block;
+  margin: 0 auto;
+  width: 50vw;
+  height: 50vh;
   padding: 25px;
   box-sizing: border-box;
   .feed{
